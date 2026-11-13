@@ -1,0 +1,3 @@
+Scope note for the repository's MIT LICENSE
+
+The root LICENSE applies to the source code (main.ts) only. It does not license the artwork file art.jpg. The artwork remains subject to its creator's rights and to any license expressly granted under the Make.fun "Make the coolest art" bounty terms if the entry receives a prize.
